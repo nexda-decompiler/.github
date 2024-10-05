@@ -1,3 +1,4 @@
+![Nexda Logo](https://raw.githubusercontent.com/nexda-decompiler/nexda/refs/heads/master/assets/SVG/Artboard%204.svg)
 # Nexda Reverse Engineering Framework
 
 Nexda is a versatile reverse engineering framework built in C++ and CMake. It is designed for both beginners and experienced developers, providing tools to analyze binaries, generate hex dumps, and perform memory analysis. With its modular architecture, Nexda allows users to extend its capabilities to suit their specific needs.
